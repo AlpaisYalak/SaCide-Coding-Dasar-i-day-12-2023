@@ -12,7 +12,7 @@
     align-items: center;
     justify-content: center;
 }
-.profile{
+ .profile{
     width: 90%;
     max-width: 320px;
     background: #32384f;
@@ -20,4 +20,15 @@
     padding: 30px 20px;
     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
+    color: #fff;
+ }
+ .top-icons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
 }
+.fa-heart{
+    margin-right: 10px;
+}
+
